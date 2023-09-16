@@ -79,7 +79,7 @@ SOLUTION
 
 ## Steps to Solution
 
-- Step 1 : Create React App using `npx create-react-app ts-store --template @anthonyharold` or `yarn create react-app ts-store --template @anthonyharold`.(With this command, both tailwindcss and typescript are ready to go.)
+- Step 1 : Create React App using `npx create-react-app ts-store ` or `yarn create react-app ts-store `.(With this command, both tailwindcss and typescript are ready to go.)
 
 - Step 2 : Use dummyJson API for products..
 
@@ -93,7 +93,6 @@ SOLUTION
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
 
-- https://www.npmjs.com/package/@anthonyharold/cra-template
 - https://dummyjson.com/docs/products/#search
 - https://redux-toolkit.js.org/tutorials/typescript
 - https://tailwindcss.com/
